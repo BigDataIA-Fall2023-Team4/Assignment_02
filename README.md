@@ -11,6 +11,11 @@ Our team has been assigned the critical task of developing a tool that allows an
 
 The end goal is to create a comprehensive tool that streamlines the process of extracting summaries from PDF documents obtained from the SEC website. This tool will not only serve analysts but also be capable of facilitating a Q/A system inspired by the Open AI cookbook. By effectively addressing the tasks outlined above, we can design and implement a powerful solution that meets the needs of our users and leverages the latest technologies to enhance document analysis and summarization.
 
+# Architecture Diagram:
+
+![image](https://github.com/BigDataIA-Fall2023-Team4/Assignment_02/assets/113845871/6b821f63-aaea-46d9-ba87-2c6784ce992d)
+
+
 # Technologies Used:
 
 1. GitHub
