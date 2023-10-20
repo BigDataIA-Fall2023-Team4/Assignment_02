@@ -8,7 +8,7 @@ from metadata import get_metadata
 import requests
 from requests.exceptions import RequestException
 
-st.title("Nougat v/s PyPdf, Q/A Model-OpenAI")
+st.title("NOUGAT-PyPDF, FastAPI, OpenAI-QA Model")
 
 # st.image("images/img_homescreen.png", caption="Looking for answers!")
 
