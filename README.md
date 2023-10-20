@@ -29,7 +29,7 @@ The end goal is to create a comprehensive tool that streamlines the process of e
 
 # Data Source:
 
-Sec forms: [https://www.sec.gov/forms](https://www.sec.gov/forms)
+SEC forms: [https://www.sec.gov/forms](https://www.sec.gov/forms)
 
 # Project Structure:
 
@@ -75,7 +75,7 @@ Sec forms: [https://www.sec.gov/forms](https://www.sec.gov/forms)
 
 | Name            | Contribution % | Contributions |
 |-----------------|----------------|---------------|
-| Naman Gupta     |     33.3%      |              |
+| Naman Gupta     |     33.3%      | Built jupyter notebooks for Q/A using open ai and embeddings, Architecture Development             |
 | Jagruti Agrawal |     33.3%      | Q/A system using OpenAI's API, Codelab Documentation              |
 | Divyesh Rajput  |     33.3%      | (NOUGAT, PyPDF)-FastAPI Integration, Creation of endpoints, Summary Generation using OpenAI's API               |
 
