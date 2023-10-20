@@ -3,7 +3,7 @@
 Link to the application:
 
 1. [Streamlit](https://apiuipy-3hhxvzfcbs9qornpewnjvd.streamlit.app/)
-2. [Codelab]([https://codelabs-preview.appspot.com/?file_id=](https://codelabs-preview.appspot.com/?file_id=1nlOiguetXSHnHXw2Vb6FfQR77WmVZxTT_ggT87CbhkU#0))
+2. [Codelab](https://codelabs-preview.appspot.com/?file_id=1nlOiguetXSHnHXw2Vb6FfQR77WmVZxTT_ggT87CbhkU#0)
 
 # Problem Statement:
 
