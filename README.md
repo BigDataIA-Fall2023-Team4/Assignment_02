@@ -1,7 +1,5 @@
 # Assignment_02
 
-# Part 1
-
 Link to the application:
 
 1. [Streamlit](https://)
