@@ -42,5 +42,5 @@ Sec forms: [https://www.sec.gov/forms](https://www.sec.gov/forms)
 |-----------------|----------------|---------------|
 | Naman Gupta     |     33.3%      |              |
 | Jagruti Agrawal |     33.3%      |               |
-| Divyesh Rajput  |     33.3%      |               |
+| Divyesh Rajput  |     33.3%      | (NOUGAT, PyPDF)-FastAPI Integration, Creation of endpoints, Summary Generation using OpenAI's API               |
 
